@@ -4,7 +4,7 @@
 //
 //  Created by MQL-IT on 2017/3/5.
 //  Copyright © 2017年 MIT. All rights reserved.
-//
+//  处理计算逻辑的model
 
 import Foundation
 
